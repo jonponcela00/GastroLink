@@ -19,7 +19,7 @@ This project is part of my **UX/UI design portfolio**, with a focus on digital p
 ## 🔗 Interactive Prototype (Figma)
 
 👉 **View prototype in Figma:**  
-https://www.figma.com/file/XXXXXXXX
+https://www.figma.com/design/vm4TxmSCb794wYuN8lUdLC/TFM?node-id=0-1&t=dq3xnLFHwHa8c4Hg-1
 
 > The prototype includes navigable flows and key application states.
 
