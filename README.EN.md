@@ -8,6 +8,7 @@ UX/UI design of a web application aimed at the full management of restaurants, d
 
 ‎---
 
+
  🎯 Project Objective
 
 To create an intuitive and efficient web app that allows restaurants to:
